@@ -23,7 +23,7 @@ může:: představuje volitelnou záležitost
  .. jakákoliv část <<#lezecky-povrch,lezeckého povrchu>> ohraničené pomocí nepřerušované <<#cerna-paska,černé pásky>>
  .. jakákoliv reklama nebo informační cedule upevněná na <<#lezecky-povrch,lezeckém povrchu>>
  .. jakýkoliv otevřený okraj nebo horní hrana <<#lezecky-povrch,lezeckého povrchu>>
- .. jakýkoliv borhák/nýt umístěný na <<#lezecky-povrch,lezeckého povrchu>>
+ .. jakýkoliv borhák/nýt umístěný na <<#lezecky-povrch,lezeckém povrchu>>
  .. jakýkoliv <<#jistici-bod,jistící bod>> nebo lano
 
 [[umely-chyt]]Umělý chyt:: představuje vyrobený chyt, který je přichycený k lezeckému povrchu pomocí vrutů nebo šroubů
